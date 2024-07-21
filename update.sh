@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# 从 misakaio/chnroutes2 仓库接取IP列表文件
 wget -O chnroutes.txt https://raw.githubusercontent.com/misakaio/chnroutes2/master/chnroutes.txt
 
 # 输入文件路径
