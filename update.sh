@@ -1,10 +1,10 @@
 #!/bin/bash
 
-# 从 misakaio/chnroutes2 仓库接取IP列表文件
-wget -O chnroutes.txt https://raw.githubusercontent.com/misakaio/chnroutes2/master/chnroutes.txt
+# 获取IP列表文件
+wget -O cn.txt https://ispip.clang.cn/all_cn_cidr.txt
 
 # 输入文件路径
-cidr_file="chnroutes.txt"
+cidr_file="cn.txt"
 
 # 输出RSC文件路径
 rsc_file="CN.rsc"
