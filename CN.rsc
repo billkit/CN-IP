@@ -5701,7 +5701,6 @@
 /ip firewall address-list add list=CN address=45.113.68.0/22
 /ip firewall address-list add list=CN address=45.113.80.0/22
 /ip firewall address-list add list=CN address=45.113.112.0/22
-/ip firewall address-list add list=CN address=45.113.128.0/22
 /ip firewall address-list add list=CN address=45.113.140.0/22
 /ip firewall address-list add list=CN address=45.113.160.0/22
 /ip firewall address-list add list=CN address=45.113.164.0/22
@@ -6132,7 +6131,6 @@
 /ip firewall address-list add list=CN address=103.54.116.0/22
 /ip firewall address-list add list=CN address=103.54.124.0/22
 /ip firewall address-list add list=CN address=103.54.128.0/22
-/ip firewall address-list add list=CN address=103.54.192.0/22
 /ip firewall address-list add list=CN address=103.55.4.0/23
 /ip firewall address-list add list=CN address=103.55.8.0/22
 /ip firewall address-list add list=CN address=103.55.112.0/23
