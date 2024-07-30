@@ -6443,7 +6443,6 @@
 /ip firewall address-list add list=CN address=103.140.170.0/23
 /ip firewall address-list add list=CN address=103.140.226.0/23
 /ip firewall address-list add list=CN address=103.140.238.0/23
-/ip firewall address-list add list=CN address=103.141.0.0/23
 /ip firewall address-list add list=CN address=103.141.16.0/23
 /ip firewall address-list add list=CN address=103.141.72.0/23
 /ip firewall address-list add list=CN address=103.141.118.0/23
