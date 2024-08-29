@@ -8753,6 +8753,7 @@
 /ip firewall address-list add list=CN address=160.25.220.0/23
 /ip firewall address-list add list=CN address=160.30.78.0/23
 /ip firewall address-list add list=CN address=160.30.98.0/23
+/ip firewall address-list add list=CN address=160.30.210.0/23
 /ip firewall address-list add list=CN address=163.13.0.0/16
 /ip firewall address-list add list=CN address=163.14.0.0/15
 /ip firewall address-list add list=CN address=163.16.0.0/12
