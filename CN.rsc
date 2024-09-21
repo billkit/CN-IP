@@ -7270,6 +7270,7 @@
 /ip firewall address-list add list=CN address=160.30.94.0/24
 /ip firewall address-list add list=CN address=160.30.96.0/23
 /ip firewall address-list add list=CN address=160.30.128.0/23
+/ip firewall address-list add list=CN address=160.187.92.0/23
 /ip firewall address-list add list=CN address=160.202.44.0/22
 /ip firewall address-list add list=CN address=160.202.56.0/22
 /ip firewall address-list add list=CN address=160.238.84.0/22
