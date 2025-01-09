@@ -8075,7 +8075,6 @@
 /ip firewall address-list add list=CN address=218.253.0.0/18
 /ip firewall address-list add list=CN address=218.253.64.0/18
 /ip firewall address-list add list=CN address=218.253.128.0/17
-/ip firewall address-list add list=CN address=218.254.0.0/16
 /ip firewall address-list add list=CN address=218.255.0.0/16
 /ip firewall address-list add list=CN address=219.73.0.0/17
 /ip firewall address-list add list=CN address=219.76.0.0/18
