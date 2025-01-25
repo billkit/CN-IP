@@ -7343,7 +7343,8 @@
 /ip firewall address-list add list=CN address=182.255.44.0/22
 /ip firewall address-list add list=CN address=183.78.176.0/22
 /ip firewall address-list add list=CN address=183.81.168.0/23
-/ip firewall address-list add list=CN address=183.90.184.0/22
+/ip firewall address-list add list=CN address=183.90.184.0/23
+/ip firewall address-list add list=CN address=183.90.186.0/23
 /ip firewall address-list add list=CN address=183.90.188.0/22
 /ip firewall address-list add list=CN address=183.91.32.0/19
 /ip firewall address-list add list=CN address=183.177.64.0/19
