@@ -6513,7 +6513,6 @@
 /ip firewall address-list add list=CN address=103.147.252.0/24
 /ip firewall address-list add list=CN address=103.148.36.0/23
 /ip firewall address-list add list=CN address=103.148.58.0/23
-/ip firewall address-list add list=CN address=103.148.116.0/23
 /ip firewall address-list add list=CN address=103.148.124.0/23
 /ip firewall address-list add list=CN address=103.148.145.0/24
 /ip firewall address-list add list=CN address=103.148.150.0/23
