@@ -8457,9 +8457,6 @@
 /ip firewall address-list add list=CN address=103.138.194.0/23
 /ip firewall address-list add list=CN address=103.139.240.0/23
 /ip firewall address-list add list=CN address=103.140.232.0/23
-/ip firewall address-list add list=CN address=103.141.80.0/23
-/ip firewall address-list add list=CN address=103.141.82.0/23
-/ip firewall address-list add list=CN address=103.142.42.0/23
 /ip firewall address-list add list=CN address=103.142.176.0/23
 /ip firewall address-list add list=CN address=103.143.56.0/23
 /ip firewall address-list add list=CN address=103.144.32.0/23
