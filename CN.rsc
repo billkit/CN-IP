@@ -7936,7 +7936,10 @@
 /ip firewall address-list add list=CN address=203.161.224.0/19
 /ip firewall address-list add list=CN address=203.166.220.0/22
 /ip firewall address-list add list=CN address=203.168.128.0/21
-/ip firewall address-list add list=CN address=203.168.192.0/18
+/ip firewall address-list add list=CN address=203.168.192.0/20
+/ip firewall address-list add list=CN address=203.168.208.0/21
+/ip firewall address-list add list=CN address=203.168.220.0/22
+/ip firewall address-list add list=CN address=203.168.224.0/19
 /ip firewall address-list add list=CN address=203.169.32.0/20
 /ip firewall address-list add list=CN address=203.169.56.0/21
 /ip firewall address-list add list=CN address=203.169.128.0/19
