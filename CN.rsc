@@ -8809,6 +8809,7 @@
 /ip firewall address-list add list=CN address=163.227.236.0/23
 /ip firewall address-list add list=CN address=165.99.64.0/23
 /ip firewall address-list add list=CN address=165.99.66.0/23
+/ip firewall address-list add list=CN address=165.99.112.0/23
 /ip firewall address-list add list=CN address=168.95.0.0/16
 /ip firewall address-list add list=CN address=175.41.48.0/20
 /ip firewall address-list add list=CN address=175.96.0.0/14
