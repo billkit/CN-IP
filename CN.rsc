@@ -1902,7 +1902,7 @@
 /ip firewall address-list add list=CN address=103.115.248.0/22
 /ip firewall address-list add list=CN address=103.116.40.0/22
 /ip firewall address-list add list=CN address=103.116.64.0/22
-/ip firewall address-list add list=CN address=103.116.72.0/21
+/ip firewall address-list add list=CN address=103.116.76.0/22
 /ip firewall address-list add list=CN address=103.116.92.0/22
 /ip firewall address-list add list=CN address=103.116.120.0/22
 /ip firewall address-list add list=CN address=103.116.128.0/22
@@ -6373,6 +6373,7 @@
 /ip firewall address-list add list=CN address=103.115.144.0/23
 /ip firewall address-list add list=CN address=103.115.146.0/24
 /ip firewall address-list add list=CN address=103.116.20.0/22
+/ip firewall address-list add list=CN address=103.116.72.0/22
 /ip firewall address-list add list=CN address=103.116.132.0/23
 /ip firewall address-list add list=CN address=103.116.244.0/22
 /ip firewall address-list add list=CN address=103.117.24.0/22
@@ -8816,6 +8817,7 @@
 /ip firewall address-list add list=CN address=165.101.28.0/23
 /ip firewall address-list add list=CN address=165.101.86.0/23
 /ip firewall address-list add list=CN address=165.101.88.0/23
+/ip firewall address-list add list=CN address=165.101.152.0/23
 /ip firewall address-list add list=CN address=168.95.0.0/16
 /ip firewall address-list add list=CN address=175.41.48.0/20
 /ip firewall address-list add list=CN address=175.96.0.0/14
@@ -8952,7 +8954,8 @@
 /ip firewall address-list add list=CN address=202.145.224.0/19
 /ip firewall address-list add list=CN address=202.148.208.0/23
 /ip firewall address-list add list=CN address=202.148.210.0/23
-/ip firewall address-list add list=CN address=202.148.212.0/22
+/ip firewall address-list add list=CN address=202.148.212.0/23
+/ip firewall address-list add list=CN address=202.148.214.0/23
 /ip firewall address-list add list=CN address=202.148.216.0/21
 /ip firewall address-list add list=CN address=202.151.48.0/20
 /ip firewall address-list add list=CN address=202.153.4.0/23
