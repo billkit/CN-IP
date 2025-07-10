@@ -6550,7 +6550,6 @@
 /ip firewall address-list add list=CN address=103.151.250.0/23
 /ip firewall address-list add list=CN address=103.152.34.0/23
 /ip firewall address-list add list=CN address=103.152.82.0/23
-/ip firewall address-list add list=CN address=103.152.194.0/23
 /ip firewall address-list add list=CN address=103.152.206.0/24
 /ip firewall address-list add list=CN address=103.152.210.0/23
 /ip firewall address-list add list=CN address=103.153.16.0/23
