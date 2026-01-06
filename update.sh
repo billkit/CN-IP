@@ -12,7 +12,7 @@ wget -O tw.txt https://ispip.clang.cn/tw.txt
 cidr_files=("all_cn_cidr.txt" "hk.txt" "mo.txt" "tw.txt")
 
 # 输出RSC文件路径
-rsc_file="CN.rsc"
+rsc_file="cn.rsc"
 
 # CN地址列表的名称
 address_list="CN"
